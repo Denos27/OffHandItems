@@ -17,6 +17,6 @@
         
     },
     "DisabledByDefault": false,
-    "Main": "com.example.templateplugin.OffHandBlocks",
+    "Main": "com.example.templateplugin.OffHandItems",
     "IncludesAssetPack": true
 }

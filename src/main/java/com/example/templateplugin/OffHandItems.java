@@ -60,7 +60,7 @@ public class OffHandItems extends JavaPlugin {
     @Override
     protected void start() {
         ((HytaleLogger.Api) LOGGER.at(Level.INFO)).log("===========================================");
-        ((HytaleLogger.Api) LOGGER.at(Level.INFO)).log("OFFHAND BLOCKS STARTING!");
+        ((HytaleLogger.Api) LOGGER.at(Level.INFO)).log("OFFHAND ITEMS STARTING!");
         ((HytaleLogger.Api) LOGGER.at(Level.INFO)).log("Patterns: " + ONE_HAND_PATTERNS);
         ((HytaleLogger.Api) LOGGER.at(Level.INFO)).log("===========================================");
 
